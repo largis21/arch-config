@@ -1,7 +1,7 @@
 *
 !.gitignore
-!hypr
-!kitty
-!rofi
-!rofi.largis21
-!waybar
+!hypr/
+!kitty/
+!rofi/
+!rofi.largis21/
+!waybar/
