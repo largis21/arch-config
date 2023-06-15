@@ -1,6 +1,0 @@
-2023/05/18-13:38:11.293 728 Creating DB /home/largis21/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb since it was missing.
-2023/05/18-13:38:11.295 728 Reusing MANIFEST /home/largis21/.config/google-chrome/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/18-13:38:58.696 729 Level-0 table #5: started
-2023/05/18-13:38:58.698 729 Level-0 table #5: 24472 bytes OK
-2023/05/18-13:38:58.699 729 Delete type=0 #3
-2023/05/18-13:38:58.699 729 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

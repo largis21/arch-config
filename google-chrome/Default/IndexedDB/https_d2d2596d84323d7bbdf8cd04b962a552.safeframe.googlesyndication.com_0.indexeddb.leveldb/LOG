@@ -1,6 +1,0 @@
-2023/05/13-00:17:54.327 c46 Creating DB /home/largis21/.config/google-chrome/Default/IndexedDB/https_d2d2596d84323d7bbdf8cd04b962a552.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
-2023/05/13-00:17:54.329 c46 Reusing MANIFEST /home/largis21/.config/google-chrome/Default/IndexedDB/https_d2d2596d84323d7bbdf8cd04b962a552.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/13-00:17:57.077 c47 Level-0 table #5: started
-2023/05/13-00:17:57.078 c47 Level-0 table #5: 480 bytes OK
-2023/05/13-00:17:57.079 c47 Delete type=0 #3
-2023/05/13-00:17:57.079 c47 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

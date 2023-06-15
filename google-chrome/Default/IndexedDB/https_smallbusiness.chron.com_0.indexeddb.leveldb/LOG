@@ -1,6 +1,0 @@
-2023/05/08-18:43:42.783 347 Creating DB /home/largis21/.config/google-chrome/Default/IndexedDB/https_smallbusiness.chron.com_0.indexeddb.leveldb since it was missing.
-2023/05/08-18:43:42.785 347 Reusing MANIFEST /home/largis21/.config/google-chrome/Default/IndexedDB/https_smallbusiness.chron.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/05/08-18:53:35.777 34c Level-0 table #5: started
-2023/05/08-18:53:35.778 34c Level-0 table #5: 151164 bytes OK
-2023/05/08-18:53:35.779 34c Delete type=0 #3
-2023/05/08-18:53:35.779 347 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
